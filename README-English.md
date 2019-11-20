@@ -1,3 +1,7 @@
+# English README.md is under constraction! Thank you.
+
+
+
 # Δίκτυο έξυπνων κάδων ανακύκλωσης
 **3ο Γενικό Λύκειο Κομοτηνής**
 
