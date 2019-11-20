@@ -1,12 +1,11 @@
 # Δίκτυο έξυπνων κάδων ανακύκλωσης
 **3ο Γενικό Λύκειο Κομοτηνής**
 
-### **For English README.md [**Click here**](README-English.md).
-
-
 *Ομάδα Ρομποτικής και προγραμματισμού* 
 
 Σχολικό Έτος: **2019-2020**
+
+### **For English README.md [**click here**](README-English.md).
 
 ![Cat](https://github.com/3lykkomo-programming/RecycleBin/blob/master/docs/images/wallpaper.png)
 
