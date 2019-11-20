@@ -1,7 +1,7 @@
 # Δίκτυο έξυπνων κάδων ανακύκλωσης
 **3ο Γενικό Λύκειο Κομοτηνής**
 
-For English README.md [**Click here**](README-English.md).
+### **For English README.md [**Click here**](README-English.md).
 
 
 *Ομάδα Ρομποτικής και προγραμματισμού* 
